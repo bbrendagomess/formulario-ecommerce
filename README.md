@@ -1,6 +1,6 @@
 # Formulario - Ecommerce
  
-Projeto foi avaliado em dentro de sala com o professor Leonardo Rocha.
+Projeto foi desenvolvimento durante as aulas de Fundamentos de Desenvolvimento Web, ministradas pelo  professor [Leonardo Rocha](https://github.com/leonardossrocha). Esse projeto foi criado a partir da pesquisa feitas em 3 sites de e-commerce e em dois projetos: [formulário de contato](https://github.com/bbrendagomess/form-contato) e [formulário de login](https://github.com/bbrendagomess/projeito-longin)
  
 ## Índice
 * [Descrição](#descrição)
@@ -31,6 +31,11 @@ Um projeto para criar uma página de login com linguagens de HTML e CSS.
 * height - A propriedade height do CSS determina a altura da área do conteúdo de um elemento. A área de conteúdo consiste no padding, margin e border do elemento.
  
 * text-aling - A propriedade CSS text-align descreve como conteúdo inline, como texto, é alinhado no elemento pai em bloco. text-align não controla o alinhamento de elementos em bloco, apenas o seu conteúdo inline.
+
+
+## Resultado do projeito
+![](foto/resultado1.png)
+![](foto/resultado2.png)
  
  
 ## Referências
